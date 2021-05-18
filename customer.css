@@ -1,0 +1,22 @@
+h2,p{
+    
+    text-align:center;
+}
+
+.container{
+    margin-top:20px;
+}
+.btn{
+    transition:1.5s;
+ 
+ 
+  }
+ 
+  button:hover{
+  background-color: #616c6f;
+    color: white;
+    
+  }
+  .bgimg img{
+    border-radius:15px;
+}
